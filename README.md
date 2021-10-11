@@ -1,5 +1,5 @@
 # Tour-nest
-This is a front-end travel website💫💫
+💫This is a front-end travel website💫
 
 visit  https://chetana16032002.github.io/Tour-nest/ to check it out 
 
