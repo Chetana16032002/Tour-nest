@@ -4,15 +4,7 @@ $(document).ready(function(){
 
 
 
-        /*==================================
-
-* Author        : "ThemeSine"
-
-* Template Name : Travel HTML Template
-
-* Version       : 1.0
-
-==================================== */
+  
 
 
         /*=========== TABLE OF CONTENTS ===========
