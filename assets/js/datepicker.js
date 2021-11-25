@@ -1,12 +1,4 @@
-/*!
- * Datepicker v0.6.4
- * https://github.com/fengyuanchen/datepicker
- *
- * Copyright (c) 2014-2017 Chen Fengyuan
- * Released under the MIT license
- *
- * Date: 2017-11-24T14:38:23.820Z
- */
+
 
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(require('jquery')) :
